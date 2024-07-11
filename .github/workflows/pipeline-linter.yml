@@ -1,4 +1,4 @@
-name:Pipeline linter
+name: Pipeline linter
 # lo que se proteje eventos
 on:
 # push en...
